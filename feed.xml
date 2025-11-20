@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>test1</title>
+    <link href="https://github.com/xamey/test-articles/feed.xml" rel="self" />
+    <link href="https://github.com/xamey/test-articles" />
+    <updated>2025-11-20T21:25:24+01:00</updated>
+    <author>
+        <name>e</name>
+    </author>
+    <id>https://github.com/xamey/test-articles</id>
+
+    <entry>
+        <title>Salutations!</title>
+        <author>
+            <name>e</name>
+        </author>
+        <link href="https://github.com/xamey/test-articles/salutations.html"/>
+        <id>https://github.com/xamey/test-articles/salutations.html</id>
+
+        <updated>2025-11-20T21:25:24+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    ça déboite
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://github.com/xamey/test-articles/media/posts/1/licensed-image.jpeg" alt="" width="810" height="468" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/xamey/test-articles/media/posts/1/responsive/licensed-image-xs.jpeg 640w ,https://github.com/xamey/test-articles/media/posts/1/responsive/licensed-image-sm.jpeg 768w ,https://github.com/xamey/test-articles/media/posts/1/responsive/licensed-image-md.jpeg 1024w ,https://github.com/xamey/test-articles/media/posts/1/responsive/licensed-image-lg.jpeg 1366w ,https://github.com/xamey/test-articles/media/posts/1/responsive/licensed-image-xl.jpeg 1600w ,https://github.com/xamey/test-articles/media/posts/1/responsive/licensed-image-2xl.jpeg 1920w"></figure>
+<p>ça déboite</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
