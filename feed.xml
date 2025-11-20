@@ -3,70 +3,10 @@
     <title>test1</title>
     <link href="https://github.com/xamey/test-articles/feed.xml" rel="self" />
     <link href="https://github.com/xamey/test-articles" />
-    <updated>2025-11-20T21:35:16+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>e</name>
     </author>
     <id>https://github.com/xamey/test-articles</id>
 
-    <entry>
-        <title>Ceci est un test</title>
-        <author>
-            <name>e</name>
-        </author>
-        <link href="https://github.com/xamey/test-articles/ceci-est-un-test.html"/>
-        <id>https://github.com/xamey/test-articles/ceci-est-un-test.html</id>
-
-        <updated>2025-11-20T21:35:16+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    avec pluisieursi maes et une vidéo
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>avec pluisieursi maes</p>
-<p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://github.com/xamey/test-articles/media/posts/3/licensed-image-2.jpeg" alt="" width="810" height="468" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/xamey/test-articles/media/posts/3/responsive/licensed-image-2-xs.jpeg 640w ,https://github.com/xamey/test-articles/media/posts/3/responsive/licensed-image-2-sm.jpeg 768w ,https://github.com/xamey/test-articles/media/posts/3/responsive/licensed-image-2-md.jpeg 1024w ,https://github.com/xamey/test-articles/media/posts/3/responsive/licensed-image-2-lg.jpeg 1366w ,https://github.com/xamey/test-articles/media/posts/3/responsive/licensed-image-2-xl.jpeg 1600w ,https://github.com/xamey/test-articles/media/posts/3/responsive/licensed-image-2-2xl.jpeg 1920w"></figure>
-<p> </p>
-<p>et une vidéo</p>
-<figure class="post__image"><img loading="lazy"  src="https://github.com/xamey/test-articles/media/posts/3/Screen-Recording-2025-11-04-at-11.35.32.mov" alt="" width="NaN" height="NaN"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://github.com/xamey/test-articles/media/posts/3/Screen-Recording-2025-11-04-at-10.58.59.mov" alt=""></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>eeneanenaeaea</title>
-        <author>
-            <name>e</name>
-        </author>
-        <link href="https://github.com/xamey/test-articles/eeneanenaeaea.html"/>
-        <id>https://github.com/xamey/test-articles/eeneanenaeaea.html</id>
-
-        <updated>2025-11-20T21:29:20+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Salutations!</title>
-        <author>
-            <name>e</name>
-        </author>
-        <link href="https://github.com/xamey/test-articles/salutations.html"/>
-        <id>https://github.com/xamey/test-articles/salutations.html</id>
-
-        <updated>2025-11-20T21:25:24+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    ça déboite
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://github.com/xamey/test-articles/media/posts/1/licensed-image.jpeg" alt="" width="810" height="468" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/xamey/test-articles/media/posts/1/responsive/licensed-image-xs.jpeg 640w ,https://github.com/xamey/test-articles/media/posts/1/responsive/licensed-image-sm.jpeg 768w ,https://github.com/xamey/test-articles/media/posts/1/responsive/licensed-image-md.jpeg 1024w ,https://github.com/xamey/test-articles/media/posts/1/responsive/licensed-image-lg.jpeg 1366w ,https://github.com/xamey/test-articles/media/posts/1/responsive/licensed-image-xl.jpeg 1600w ,https://github.com/xamey/test-articles/media/posts/1/responsive/licensed-image-2xl.jpeg 1920w"></figure>
-<p>ça déboite</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
