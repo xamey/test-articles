@@ -3,12 +3,24 @@
     <title>test1</title>
     <link href="https://github.com/xamey/test-articles/feed.xml" rel="self" />
     <link href="https://github.com/xamey/test-articles" />
-    <updated>2025-11-20T21:25:24+01:00</updated>
+    <updated>2025-11-20T21:29:20+01:00</updated>
     <author>
         <name>e</name>
     </author>
     <id>https://github.com/xamey/test-articles</id>
 
+    <entry>
+        <title>eeneanenaeaea</title>
+        <author>
+            <name>e</name>
+        </author>
+        <link href="https://github.com/xamey/test-articles/eeneanenaeaea.html"/>
+        <id>https://github.com/xamey/test-articles/eeneanenaeaea.html</id>
+
+        <updated>2025-11-20T21:29:20+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Salutations!</title>
         <author>
